@@ -1,0 +1,39 @@
+g.addV('personne').
+  property('id', 'personne.14419').
+  property('prenom', 'Eva').
+  property('nom', 'Fleury').
+  property('email', 'e.fleury@100dayloans.com').
+  property('pays', 'Maroc')
+
+g.addV('personne').
+  property('id', 'personne.11862').
+  property('prenom', 'Bénédicte').
+  property('nom', 'Zarha').
+  property('email', 'b.zarha@100dayloans.com').
+  property('pays', 'Maroc')
+
+g.addV('session').
+  property('id', 'session.123').
+  property('date', '2023.05.12').
+  property('formation', 'Tout sur CosmosDb').
+  property('pays', 'Maroc')
+
+g.V('personne.14419').
+  addE('participe').
+  to(g.V('session.123'))
+
+g.V('personne.11862').
+  addE('participe').
+  to(g.V('session.123'))
+
+
+g.V()
+
+
+
+g.V('session.123').
+  in('participe')
+
+g.V('personne.14419').
+  out('participe').
+  V()

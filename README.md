@@ -24,7 +24,16 @@ Dans la formation `L'essentiel de Azure Cosmos DB (2023)`, nous développons des
 2. Clonez ce dossier Repository sur votre machine locale (Mac), CMD ou Powershell (Windows), ou sur un outil GUI tel que SourceTree. L'URL à utiliser est disponible en cliquant sur le bouton vert `Code` en haut à droite de la page du dossier Repository sur GitHub. Prenez l'URL HTTPS et non pas SSH. Utilisez cette URL comme argument de la commande `git clone`. Pour plus d'instructions, suivez cette [aide en ligne de Github](https://docs.github.com/fr/repositories/creating-and-managing-repositories/cloning-a-repository).
 3. Rendez-vous avec votre intepréteur de commandes dans un des sous-répertoires contenant un projet C#, et ouvrez le dossier dans Visual Studio Code avec la commande `code .`.
 
-### Formateur
+## Fichiers individuels
+
+J'ai également déposé quelques fichiers individuels dans le dossier [fichiers-individuels](./fichiers-individuels/) pour vous laisser les requêtes que nous utilisons dans la formation selon les API explorées :
+
+- Requêtes SQL utilisées dans l'API Core : [core-api.sql](./fichiers-individuels/core-api.sql) ;
+- Le fichier JSON utilisé pour créer un nouveau rôle pour un accès sans mot de passe depuis notre programme client : [role.json](./fichiers-individuels/role.json) ;
+- Deux fichiers de requêtes utilisés dans le chapitre sur l'API MongoDB : [mongo.js](./fichiers-individuels/mongo.js) et [mongo2.js](./fichiers-individuels/mongo2.js) ;
+- Les requêtes Gremlin utilisées dans le chapitre sur l'API Grapge : [inscriptions.gremlin](./fichiers-individuels/inscriptions.gremlin).
+
+## Formateur
 
 **Rudi Bruchez** 
 
