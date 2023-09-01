@@ -22,7 +22,7 @@ Dans la formation `L'essentiel de Azure Cosmos DB (2023)`, nous développons des
      - Installation sur Mac : vous pouvez utiliser [Homebrew](https://brew.sh/) : `brew install --cask visual-studio-code`.
    -  
 2. Clonez ce dossier Repository sur votre machine locale (Mac), CMD ou Powershell (Windows), ou sur un outil GUI tel que SourceTree. L'URL à utiliser est disponible en cliquant sur le bouton vert `Code` en haut à droite de la page du dossier Repository sur GitHub. Prenez l'URL HTTPS et non pas SSH. Utilisez cette URL comme argument de la commande `git clone`. Pour plus d'instructions, suivez cette [aide en ligne de Github](https://docs.github.com/fr/repositories/creating-and-managing-repositories/cloning-a-repository).
-3. Rendez-vous avec votre intepréteur de commandes dans un des sous-répertoires contenant un projet C#, et ouvrez le dossier dans Visual Studio Code avec la commande `code .`.
+3. Rendez-vous avec votre interpréteur de commandes dans un des sous-répertoires contenant un projet C#, et ouvrez le dossier dans Visual Studio Code avec la commande `code .`.
 
 ## Fichiers individuels
 
