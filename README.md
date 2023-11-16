@@ -8,7 +8,7 @@ En tant que développeur, vous êtes amené à travailler en langage SQL sur le 
 
 ## Instructions
 
-Dans la formation `L'essentiel de Azure Cosmos DB (2023)`, nous développons des applications clients en C# pour accéder au différentes API d'Azure CosmosDB. Nous utilisons [Visual Studio Code](https://code.visualstudio.com/) pour développer nos applications, les déboguer et les exécuter.
+Dans la formation `L'essentiel d'Azure Cosmos DB`, nous développons des applications clients en C# pour accéder au différentes API d'Azure CosmosDB. Nous utilisons [Visual Studio Code](https://code.visualstudio.com/) pour développer nos applications, les déboguer et les exécuter.
 
 ## Installation
 
