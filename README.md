@@ -1,10 +1,10 @@
-# L'essentiel de Azure Cosmos DB (2023)
+# L'essentiel d'Azure Cosmos DB
 
-Ce dossier Repository est lié au cours `L'essentiel de Azure Cosmos DB (2023)`. Le cours entier est disponible sur [LinkedIn Learning][lil-course-url].
+Ce dossier Repository est lié au cours `L'essentiel d'Azure Cosmos DB`. Le cours entier est disponible sur [LinkedIn Learning][lil-course-url].
 
 ![Nom final de la formation][lil-thumbnail-url] 
 
-DESCRIPTION DE LA FORMATION
+En tant que développeur, vous êtes amené à travailler en langage SQL sur le cloud, sur des documents JSON ou sur du traitement de graphes. Si vous souhaitez gagner en rapidité et en souplesse, découvrez cette formation sur Azure Cosmos DB. Abordez le système de gestion de bases de données sur le cloud, multi-modèle, de Microsoft. Prenez en main Cosmos DB pour héberger vos données sur le cloud, sans gérer l'infrastructure, avec des performances et une disponibilité garanties. Parcourez également les API des différents modèles pour manipuler aisément des données documents, clé-valeur ou graphes. Rudi Bruchez, consultant expert en SQL Server, vous guide vers la maîtrise de Cosmos DB.
 
 ## Instructions
 
