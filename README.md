@@ -40,12 +40,9 @@ J'ai également déposé quelques fichiers individuels dans le dossier [fichiers
  Retrouvez mes autres formations sur [LinkedIn Learning][lil-URL-trainer].
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com
-[lil-thumbnail-url]: https:
+[lil-course-url]: https://www.linkedin.com/learning/l-essentiel-d-azure-cosmos-db
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQE6XnkUN27yNA/learning-public-crop_675_1200/0/1700129891211?e=2147483647&v=beta&t=jA62Sk1-5Q_dA-k3y8v_EEvsPL6Jm6_lJg_uB___iKI
 [lil-URL-trainer]: https://www.linkedin.com/learning/instructors/rudi-bruchez
 
 [1]: # (End of FR-Instruction ###############################################################################################)
-[lil-course-url]: https://www.linkedin.com 
-[lil-thumbnail-url]: https:// 
 
-[1]: # (End of BP-Instruction ###############################################################################################) 
